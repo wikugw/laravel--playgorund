@@ -13,11 +13,6 @@
 
                         <div class="form-group row">
                             <div class="col-md-6 offset-md-3">
-                                <a href="" class="btn btn-primary btn-block">Facebook</a>
-                                <a href="" class="btn btn-danger btn-block">Google</a>
-                                <a href="" class="btn btn-dark btn-block">Github</a>
-                                <a href="" class="btn btn-info btn-block">Twitter</a>
-                                <a href="" class="btn btn-info btn-block">Linkedin</a>
                             </div>
                         </div>
 
